@@ -1,0 +1,107 @@
+/*
+    Theme Name:     bamf
+    Theme URI:      http://www.brandadvance.net
+    Description:    bamf
+    Author:         Brand Advance
+    Author URI:     http://www.brandadvance.net
+    Version:        0.1.0
+*/
+
+/* Base
+-------------------------------------------------- */
+
+
+/* Typography
+-------------------------------------------------- */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #444;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+/* Headers */
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
+
+h4 {
+}
+
+h5 {
+}
+
+h6 {
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    text-decoration: none;
+}
+
+
+/* Links */
+
+
+/* Lists */
+
+ul,
+ol {
+    margin-left: 20px;
+}
+
+
+
+/* Layout
+-------------------------------------------------- */
+
+.page-wrapper {
+}
+
+.header {
+
+}
+
+.main {
+
+}
+
+.site-footer {
+    background-color: #eee;
+}
+
+/* Navigation */
+
+.nav>li.current_page_item>a {
+    text-decoration: none;
+    background-color: #eee;
+}
+
+.site-footer,
+.site-main {
+    padding: 40px 0;
+}
+
+
+/* Module
+-------------------------------------------------- */
+
+
+/* Base
+-------------------------------------------------- */
+
+
+/* Base
+-------------------------------------------------- */
+
